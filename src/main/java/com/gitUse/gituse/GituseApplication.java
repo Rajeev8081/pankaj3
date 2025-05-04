@@ -5,7 +5,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
 public class GituseApplication {
-int s = 10;
+int s = 11;
 	public static void main(String[] args) {
 		SpringApplication.run(GituseApplication.class, args);
 	}
