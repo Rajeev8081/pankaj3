@@ -8,6 +8,7 @@ public class GituseApplication {
 int s = 11;
 int u=9;
 	int c=22;
+	boolean  ss = true;
 	public static void main(String[] args) {
 		SpringApplication.run(GituseApplication.class, args);
 	}
